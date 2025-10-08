@@ -22,8 +22,8 @@ I focus on creating solutions that combine **performance optimization** with **r
 
 ### 📈 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkifFurkanEmir&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifFurkanEmir&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KorkmazPro28&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorkmazPro28&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </p>
 
 ---
