@@ -15,7 +15,7 @@ I focus on creating solutions that combine **performance optimization** with **r
 ---
 
 ### 🧰 Technologies & Tools
-- **Languages:** Python, C++, HTML, CSS  
+- **Languages:** Python, C++, HTML, CSS, C#, JavaScript
 - **Tools:** Git, Visual Studio Code, Linux  
 
 ---
