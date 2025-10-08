@@ -16,12 +16,16 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: KorkmazPro28
-          outputs: dist/github-contribution-grid-snake.svg
-          snake_color: '#39FF14'
-          background_color: '#0A0F18'
-          grid_color: '#1E1E1E'
-          color_snake_head: '#FFFFFF'
-          snake_animation_speed: 1.2
+          outputs: dist/snake-base.svg
+
+      - name: Apply custom styling (make it realistic)
+        run: |
+          sed -i 's/fill="#000000"/fill="#0A0F18"/g' dist/snake-base.svg
+          sed -i 's/fill="#ebedf0"/fill="#1a1a1a"/g' dist/snake-base.svg
+          sed -i 's/fill="#40c463"/fill="url(#snakeGrad)"/g' dist/snake-base.svg
+
+          # gradient ekleyelim
+          awk '/<svg/{print;print "<defs><linearGradient id=\"snakeGrad\" x1=\"0\" x2=\"1\"><stop offset=\"0\" stop-color=\"#39FF14\"/><stop offset=\"1\" stop-color=\"#004400\"/></linearGradient></defs>";next}1' dist/snake-base.svg > dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
