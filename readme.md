@@ -42,13 +42,6 @@ I focus on creating solutions that combine **performance optimization** with **r
 
 ---
 
-### 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KorkmazPro28/KorkmazPro28/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 🎯 Vision
 To become a proficient and innovative developer who contributes to building secure, efficient, and scalable systems while continuously improving technical and analytical skills.
 
