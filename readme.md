@@ -24,18 +24,18 @@ I focus on creating solutions that combine **performance optimization** with **r
 
 <p align="center">
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.me/api?username=KorkmazPro28&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KorkmazPro28&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
   <img src="httpspler.me/permalinkver.me/me-stratistics1/verifier/me.json" />
 
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.me/api/top-langs/?username=KorkmazPro28&layout=compact&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorkmazPro28&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.me/?username=KorkmazPro28&theme=darkhub&no-frame=true&row=1&margin-w=5&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KorkmazPro28&theme=darkhub&no-frame=true&row=1&margin-w=5&no-bg=true" />
 </p>
 
 ---
