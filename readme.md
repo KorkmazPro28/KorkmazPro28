@@ -37,7 +37,7 @@ I focus on creating solutions that combine **performance optimization** with **r
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KorkmazPro28&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KorkmazPro28&theme=dark&hide_border=true&t=1" height="150"/>
 </p>
 
 ---
