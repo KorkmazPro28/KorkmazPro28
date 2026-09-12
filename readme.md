@@ -2,13 +2,13 @@
 
 # 👨‍💻 Akif Furkan Emir
 
-### `Software Developer` · `Computer Science Student` · `Technology Enthusiast`
+### Software Developer • Computer Science Student • Technology Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work.;Exploring+software%2C+systems+%26+security.;Turning+ideas+into+real+projects.;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Developer;Computer+Science+Student;System+%26+Software+Enthusiast;Building+things+that+actually+work.;Always+learning.+Always+building." alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=KorkmazPro28&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=KorkmazPro28&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -16,28 +16,29 @@
 
 ## 🧠 About Me
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  👋 Hi, I'm Akif Furkan Emir                                │
-│                                                              │
-│  💻 Software developer & computer science student            │
-│  ⚙️ Interested in systems, optimization and security         │
-│  🧩 I enjoy turning ideas into practical applications        │
-│  🚀 Always experimenting with new technologies                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+I'm **Akif Furkan Emir**, a software developer and computer science
+student interested in building practical software and exploring how
+technology works under the hood.
 
-I'm a developer who enjoys understanding **how things work under the hood** and turning that knowledge into useful software.
+I enjoy turning ideas into real projects — from desktop applications
+and developer tools to experimental software and modern user interfaces.
 
-My interests range from **software development and algorithms** to **system optimization, security and modern user experiences**.
+I'm particularly interested in:
 
-> *Build it. Break it. Understand it. Improve it.*
+- 💻 Software development
+- ⚙️ System programming & optimization
+- 🔐 Security
+- 🤖 Artificial intelligence & developer tools
+- 🎨 Modern UI/UX
+- 🌐 Web technologies
+- 📱 Cross-platform development
+- 🐧 Linux & Windows environments
+
+> **Build → Break → Understand → Improve**
 
 ---
 
-## ⚡ What I'm Into
+## ⚡ What I Do
 
 <table>
 <tr>
@@ -45,26 +46,29 @@ My interests range from **software development and algorithms** to **system opti
 
 ### 💻 Software Development
 
-Building applications with a focus on:
+I enjoy creating applications with a focus on:
 
-* Clean architecture
-* Performance
-* Reliability
-* Maintainability
-* Practical UX
+- Clean code
+- Performance
+- Reliability
+- Maintainability
+- Practical user experience
+- Scalable architecture
 
 </td>
+
 <td width="50%">
 
-### 🧠 Systems & Security
+### ⚙️ Systems & Technology
 
-Exploring:
+I like exploring:
 
-* System optimization
-* Software architecture
-* Security concepts
-* Linux & Windows
-* Low-level experimentation
+- Operating systems
+- System optimization
+- Security
+- Desktop applications
+- Hardware/software interaction
+- Development environments
 
 </td>
 </tr>
@@ -72,68 +76,104 @@ Exploring:
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,ruby,js,rust" />
 
-### Tools & Environment
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,visualstudio" />
+## 🌐 Web Development
 
-### Exploring
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-<img src="https://skillicons.dev/icons?i=rust,tauri" />
+<br><br>
+
+## 📱 Cross-Platform Development
+
+<img src="https://skillicons.dev/icons?i=dart,flutter" />
+
+<br><br>
+
+## 🔧 Tools & Environments
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,windows" />
 
 </div>
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-### 🖥️ Codenotch for Windows
+<table>
+<tr>
 
-A Windows port of **Codenotch**, a compact desktop application for monitoring coding assistant usage and local AI runtimes.
+<td width="50%" valign="top">
 
-**Focus:** Windows · Desktop Development · AI Tools · System Integration
+## 🖥️ Codenotch for Windows
 
-```text
-Portable ─────── Setup ─────── Source
-```
+A Windows port of **Codenotch**, a compact desktop application for
+monitoring coding assistant usage, provider activity and local AI runtimes.
+
+### Built around
+
+- 🪟 Windows
+- 🦀 Rust
+- ⚡ Tauri
+- 🤖 AI developer tools
+- 📊 Usage monitoring
+- 🖥️ Desktop integration
+
+The project is distributed as:
+
+`Portable` • `Setup` • `Source`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚇 Metrom Nerede
+
+A modern Istanbul public transportation application concept focused
+on making public transport information easier and faster to access.
+
+### Features
+
+- 🚇 Metro
+- 🚊 Tram
+- 🚍 Metrobüs
+- 🚌 Bus
+- ⭐ Favorites
+- 🛠️ Line Status
+- 📍 Nearest station
+- ⏱️ Arrival estimates
+
+Designed around a modern **glass-inspired UI** while keeping the
+interface clean and practical.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🚇 Metrom Nerede
-
-A modern Istanbul public transportation application concept focused on providing quick access to:
-
-* 🚇 Metro
-* 🚊 Tram
-* 🚌 Bus
-* 🚍 Metrobüs
-* ⭐ Favorites
-* 🛠️ Line Status
-
-Designed with a modern **glass / Liquid Glass inspired interface** while keeping the UI practical and lightweight.
-
----
-
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=KorkmazPro28&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorkmazPro28&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorkmazPro28&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=10" height="180"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -143,85 +183,63 @@ Designed with a modern **glass / Liquid Glass inspired interface** while keeping
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KorkmazPro28&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KorkmazPro28&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## 📈 Activity
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KorkmazPro28&theme=github-compact&hide_border=true&area=true" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KorkmazPro28&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KorkmazPro28/KorkmazPro28/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-> The snake animation is generated automatically from my GitHub contribution graph.
-
----
-
-## 🎯 Current Focus
-
-```text
-┌─ CURRENTLY
-│
-├── 💻 Building desktop applications
-├── 🤖 Exploring AI & coding assistants
-├── ⚙️ Learning more about system-level development
-├── 🔐 Improving my understanding of security
-├── 🚀 Experimenting with new technologies
-└── 🧠 Becoming a better engineer
-```
-
----
-
-## 🌌 My Development Philosophy
-
-<div align="center">
-
-### `Curiosity → Experiment → Build → Break → Learn → Improve`
-
-<br>
-
-> **"Don't just use technology. Understand it."**
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KorkmazPro28/KorkmazPro28/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KorkmazPro28/KorkmazPro28/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/KorkmazPro28/KorkmazPro28/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
 ---
 
-## 📫 Connect
+# 🎯 Current Focus
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="left">
 
-<a href="https://github.com/KorkmazPro28">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+💻 <b>Desktop Application Development</b><br>
+🤖 <b>AI & Coding Assistant Tools</b><br>
+⚙️ <b>System-Level Development</b><br>
+🔐 <b>Security & System Optimization</b><br>
+🌐 <b>Modern Web Technologies</b><br>
+📱 <b>Cross-Platform Applications</b><br>
+🧠 <b>Continuous Learning</b>
 
-<!-- Add your other links here -->
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for stopping by 👋
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer"/>
-
-</div>
+</td>
+</tr>
+</table>
